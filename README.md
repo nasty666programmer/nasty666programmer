@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qcbj30rLpLmrxA_yfKMF6z89FI9VXRY9ow&usqp=CAU' width:'25px' />
 ### My name is Artem, i'm full-stack developer.
 ### My tech stack:
 * React,Next js
