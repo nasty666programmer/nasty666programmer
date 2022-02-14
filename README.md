@@ -1,7 +1,7 @@
 
 ### My name is Artem, i'm full-stack developer.
-<hr />
 ### My tech stack:
+<hr />
 * React,Next js
 * Express,Nest js,Node js
 * SQL,NoSQL(mysql,postgresql,dynamoDB,mongoDB)
