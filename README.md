@@ -1,7 +1,6 @@
 
 ### My name is Artem, i'm full-stack developer.
 # My tech stack:
-<hr />
 * React,Next js
 * Express,Nest js,Node js
 * SQL,NoSQL(mysql,postgresql,dynamoDB,mongoDB)
@@ -11,5 +10,6 @@
 
 - 🔭 I’m currently working on hard-project
 - 🌱 I’m currently learning Drive Design Domain - arch.
+- <hr />
 
 ### Связаться со мной [Linkdln](https://ua.linkedin.com/in/artem-ivanov-7b26881a2?trk=people-guest_people_search-card)
