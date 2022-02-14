@@ -1,4 +1,4 @@
-### Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F352266002105451635%2F&psig=AOvVaw032dK8_gqWbbWEBkV7miz9&ust=1644949607441000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCw3vvo__UCFQAAAAAdAAAAABAV" width:'25px'/>
+
 ### My name is Artem, i'm full-stack developer.
 <hr />
 **My tech stack:
