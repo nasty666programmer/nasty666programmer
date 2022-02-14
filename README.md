@@ -1,6 +1,6 @@
 
 ### My name is Artem, i'm full-stack developer.
-**My tech stack:
+# My tech stack:
 <hr />
 * React,Next js
 * Express,Nest js,Node js
