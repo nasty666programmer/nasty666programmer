@@ -12,4 +12,4 @@
 - 🌱 I’m currently learning Drive Design Domain - arch.
  <hr />
 
-### Связаться со мной [Linkdln](https://ua.linkedin.com/in/artem-ivanov-7b26881a2?trk=people-guest_people_search-card)
+### Связаться со мной [Linkdln](https://ua.linkedin.com/in/artem-ivanov-7b26881a2?trk=people-guest_people_search-card) [dev18ivanov@gmail.com](http://gmail.com)
